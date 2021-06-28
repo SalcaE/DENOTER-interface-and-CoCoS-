@@ -1,0 +1,17 @@
+giovanni:             0.9000000000000001
+maggio:               0.6
+paolo:                0.6
+borsellino:           0.6
+barbiere:             0.6
+amico:                0.6
+aspettare:            0.6
+falcone:              0.6
+qualche:              0.6
+roma:                 0.6
+giorno:               0.6
+pranzo:               0.6
+vedere:               0.6
+bisogna:              0.6
+candidatura:          0.6
+festeggiare:          0.6
+superprocura:         0.6

@@ -1,0 +1,34 @@
+#Title composizione
+Title : religioso-fantascienza_sci-fi
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi
+
+head, fede
+head, storia
+
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, futuro
+modifier, -amore
+
+T(modifier), progetto, 0.76
+T(modifier), supercalcolatore, 0.72
+T(modifier), militare, 0.67
+T(modifier), messaggio, 0.62
+T(modifier), decifrare, 0.62
+T(modifier), istruzione, 0.62
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.029963504406528015

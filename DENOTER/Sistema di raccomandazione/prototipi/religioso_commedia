@@ -1,0 +1,33 @@
+#Title composizione
+Title : religioso-commedia
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : commedia
+
+head, fede
+head, storia
+
+
+modifier, scherzo
+modifier, -violenza
+modifier, -male
+
+
+T(modifier), paradiso, 0.72
+T(modifier), carabiniere, 0.7
+T(modifier), omicidio, 0.69
+T(modifier), matrimonio, 0.68
+T(modifier), relazione, 0.66
+T(modifier), convento, 0.63
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.02096053272576

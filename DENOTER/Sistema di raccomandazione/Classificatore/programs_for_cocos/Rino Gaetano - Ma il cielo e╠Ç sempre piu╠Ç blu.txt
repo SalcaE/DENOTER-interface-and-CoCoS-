@@ -1,0 +1,25 @@
+onda:                 0.9
+crescente:            0.9
+successo:             0.9
+festival:             0.9
+partecipare:          0.9
+sanremo:              0.9
+padre:                0.9
+ospedale:             0.9
+ricoverare:           0.9
+canzone:              0.9
+gianna:               0.9
+piazza:               0.9
+terzo:                0.9
+inizio:               0.9
+anno:                 0.9
+vita:                 0.9
+primo:                0.9
+segnare:              0.9
+fallimentare|fallimentario:0.9
+audizione:            0.9
+giovinezza:           0.9
+spensierato:          0.9
+vissuta:              0.9
+quartiere:            0.9
+popolare:             0.9

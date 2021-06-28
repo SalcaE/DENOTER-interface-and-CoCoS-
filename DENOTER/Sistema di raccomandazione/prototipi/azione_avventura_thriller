@@ -1,0 +1,40 @@
+#Title composizione
+Title : azione_avventura-thriller
+
+#Concetto Principale
+Head Concept Name : azione_avventura
+
+#Concetto Modificatore
+Modifier Concept Name : thriller
+
+head, guerra
+head, acrobazia
+head, eroe
+head, battaglia
+head, disastro
+head, combattimento
+head, fuga
+head, viaggio
+
+modifier, suspance
+modifier, ansia
+modifier, tensione
+modifier, mistero
+modifier, pericolo
+modifier, missione
+
+T(modifier), omicidio, 0.8
+T(modifier), commissario, 0.7
+T(modifier), indagine, 0.7
+T(modifier), uccidere, 0.7
+T(modifier), polizia, 0.6
+T(modifier), vita, 0.6
+
+T(head), polizia, 0.7
+T(head), ricerca, 0.66
+T(head), soldato, 0.65
+T(head), incidente, 0.64
+T(head), assassino, 0.62
+
+
+Result : '1', '1', '0', '1', '0', '0', '1', '0', '0', '0', '0', 0.021441659904

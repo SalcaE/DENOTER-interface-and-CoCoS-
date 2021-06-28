@@ -1,0 +1,28 @@
+#Title composizione
+Title : azione_avventura
+
+#Concetto Principale
+Head Concept Name : azione_avventura
+
+#Concetto Modificatore
+Modifier Concept Name : 
+
+
+head, guerra
+head, acrobazia
+head, eroe
+head, battaglia
+head, disastro
+head, combattimento
+head, fuga
+head, viaggio
+
+
+T(head), polizia, 0.702
+T(head), ricerca, 0.66
+T(head), soldato, 0.654
+T(head), incidente, 0.642
+T(head), assassino, 0.624
+
+
+Result : '1', '1', '1', '1', '1', 0.12138874285824

@@ -1,0 +1,34 @@
+#Title composizione
+Title : commedia-musicale
+
+#Concetto Principale
+Head Concept Name : commedia
+
+#Concetto Modificatore
+Modifier Concept Name : musicale
+
+head, scherzo
+head, -violenza
+head, -male
+
+
+modifier, musica
+modifier, cantare
+
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.84
+T(modifier), concerto, 0.74
+T(modifier), band, 0.72
+T(modifier), gruppo, 0.7
+T(modifier), auditorium, 0.66
+
+T(head), paradiso, 0.72
+T(head), carabiniere, 0.7
+T(head), omicidio, 0.69
+T(head), matrimonio, 0.68
+T(head), relazione, 0.66
+T(head), convento, 0.63
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '0', '0', '0', '0', '0', 0.004306830527604326

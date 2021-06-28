@@ -1,0 +1,112 @@
+.ddinfo {
+  display: block;
+  text-align: center;
+  padding-top: 130px;
+  color: #a0a1a2;
+}
+
+.container {
+  margin-top: 30px;
+  max-width: 500px;
+}
+
+.fileUploadWrapper .card-body {
+  max-height: 330px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #38424c;
+}
+
+.textRes {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  alignment: center;
+}
+
+.resultFile{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  alignment: center;
+  background-color: #809fff;
+  border-radius: 5px;
+}
+
+/*tremolio */
+.fileover {
+  animation: shake 1s;
+  animation-iteration-count: infinite;
+}
+
+/* Shake animation */
+@keyframes shake {
+  0% {
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+
+  10% {
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+
+  20% {
+    transform: translate(-3px, 0px) rotate(1deg);
+  }
+
+  30% {
+    transform: translate(3px, 2px) rotate(0deg);
+  }
+
+  40% {
+    transform: translate(1px, -1px) rotate(1deg);
+  }
+
+  50% {
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+
+  60% {
+    transform: translate(-3px, 1px) rotate(0deg);
+  }
+
+  70% {
+    transform: translate(3px, 1px) rotate(-1deg);
+  }
+
+  80% {
+    transform: translate(-1px, -1px) rotate(1deg);
+  }
+
+  90% {
+    transform: translate(1px, 2px) rotate(0deg);
+  }
+
+  100% {
+    transform: translate(1px, -2px) rotate(-1deg);
+  }
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+/*container sopra card*/
+.w3-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  alignment: center;
+}
+
+/*
+Copyright 2020 Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that can be found
+in the LICENSE file at http://material.angularjs.org/HEAD/license.
+*/

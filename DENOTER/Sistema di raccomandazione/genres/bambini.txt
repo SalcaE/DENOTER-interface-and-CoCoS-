@@ -1,0 +1,6 @@
+regina: 0.72
+mondo: 0.64
+avventura: 0.62
+cuore: 0.6
+casa: 0.6
+fiore: 0.6

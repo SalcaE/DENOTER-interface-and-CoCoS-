@@ -1,0 +1,34 @@
+#Title composizione
+Title : commedia-horror
+
+#Concetto Principale
+Head Concept Name : commedia
+
+#Concetto Modificatore
+Modifier Concept Name : horror
+
+head, scherzo
+head, -violenza
+
+modifier, allarme
+modifier, spavento
+modifier, paura
+modifier, panico
+
+
+T(modifier), ragazza, 0.72
+T(modifier), vita, 0.72
+T(modifier), scienziato, 0.66
+T(modifier), omicidio, 0.66
+T(modifier), testimone, 0.6
+T(modifier), commissario, 0.6
+
+T(head), paradiso, 0.72
+T(head), carabiniere, 0.7
+T(head), omicidio, 0.69
+T(head), matrimonio, 0.68
+T(head), relazione, 0.66
+T(head), convento, 0.63
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', 0.0010051118863220738

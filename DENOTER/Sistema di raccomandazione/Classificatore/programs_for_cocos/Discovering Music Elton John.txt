@@ -1,0 +1,15 @@
+discovering:          0.9
+music:                0.9
+serie:                0.9
+traccia:              0.9
+ritratto:             0.9
+musicista:            0.9
+interessante:         0.9
+secolo:               0.9
+icona:                0.9
+scoprire:             0.9
+arte:                 0.9
+colonna:              0.9
+entrare:              0.9
+sonora:               0.9
+vita:                 0.9

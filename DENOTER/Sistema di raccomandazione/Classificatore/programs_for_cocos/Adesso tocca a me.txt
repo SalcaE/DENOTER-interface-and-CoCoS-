@@ -1,0 +1,16 @@
+venticinque:          0.9000000000000001
+anno:                 0.9000000000000001
+docu-film:            0.6
+paolo:                0.6
+raccontare:           0.6
+borsellino:           0.6
+tragico:              0.6
+fine:                 0.6
+cento:                0.6
+chilo:                0.6
+esplosivo:            0.6
+morte:                0.6
+causare:              0.6
+cinque:               0.6
+uomo:                 0.6
+scorta:               0.6

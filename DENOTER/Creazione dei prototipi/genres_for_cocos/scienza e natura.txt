@@ -1,0 +1,7 @@
+primo:                0.9
+enrico:               0.6
+fermo:                0.6
+ettore:               0.6
+majorana:             0.6
+secondo:              0.6
+giovane:              0.6

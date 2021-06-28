@@ -1,0 +1,6 @@
+paradiso:             0.72375
+carabiniere:          0.69875
+omicidio:             0.6875
+matrimonio:           0.67625
+relazione:            0.6575
+convento:             0.63

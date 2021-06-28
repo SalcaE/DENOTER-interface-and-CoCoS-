@@ -1,0 +1,41 @@
+#Title composizione
+Title : horror-fantascienza_sci-fi
+
+#Concetto Principale
+Head Concept Name : horror
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi
+
+head, allarme
+head, spavento
+head, paura
+head, panico
+head, sangue
+head, -bene
+head, -morale
+head, 
+
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, futuro
+modifier, -amore
+
+T(modifier), progetto, 0.76
+T(modifier), supercalcolatore, 0.72
+T(modifier), militare, 0.67
+T(modifier), messaggio, 0.62
+T(modifier), decifrare, 0.62
+T(modifier), istruzione, 0.62
+
+T(head), ragazza, 0.72
+T(head), vita, 0.72
+T(head), scienziato, 0.66
+T(head), omicidio, 0.66
+T(head), testimone, 0.6
+T(head), commissario, 0.6
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', 0.009500656757196716

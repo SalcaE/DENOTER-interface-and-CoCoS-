@@ -1,0 +1,7 @@
+arte:                 0.9
+primo:                0.675
+documentario:         0.675
+storia:               0.6
+opera:                0.6
+guerra:               0.6
+uomo:                 0.6

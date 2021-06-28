@@ -1,0 +1,17 @@
+forza:                0.9000000000000001
+racconto:             0.6
+positiva:             0.6
+donna:                0.6
+società:              0.6
+esercitare:           0.6
+ambito:               0.6
+familiare:            0.6
+comunità:             0.6
+luogo:                0.6
+lavoro:               0.6
+politica:             0.6
+azione:               0.6
+grado:                0.6
+numeroso:             0.6
+agire:                0.6
+difficoltà:           0.6

@@ -1,0 +1,17 @@
+cristianesimo:        0.9000000000000001
+racconto:             0.6
+diffusione:           0.6
+impero:               0.6
+roma:                 0.6
+film:                 0.6
+mostra:               0.6
+reazione:             0.6
+romano:               0.6
+giudeo:               0.6
+punto:                0.6
+vista:                0.6
+politico:             0.6
+religioso:            0.6
+difficoltà:           0.6
+narrare:              0.6
+insormontabile:       0.6

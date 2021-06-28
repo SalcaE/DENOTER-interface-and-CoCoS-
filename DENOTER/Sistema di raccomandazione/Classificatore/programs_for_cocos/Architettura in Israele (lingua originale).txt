@@ -1,0 +1,8 @@
+regista:              0.9
+amos:                 0.9
+architetto:           0.9
+dialogare:            0.9
+sociologo:            0.9
+archeologo:           0.9
+architettura:         0.9
+israeliano:           0.9

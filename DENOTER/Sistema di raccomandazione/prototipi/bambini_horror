@@ -1,0 +1,35 @@
+#Title composizione
+Title : bambini-horror
+
+#Concetto Principale
+Head Concept Name : bambini
+
+#Concetto Modificatore
+Modifier Concept Name : horror
+
+head, -offesa
+head, -violenza
+head, -sesso
+head, insegnare
+head, sentimento
+head, morale
+head, bene
+head, -male
+
+modifier, allarme
+modifier, spavento
+modifier, paura
+modifier, panico
+
+
+T(modifier), ragazza, 0.72
+T(modifier), vita, 0.72
+
+T(head), regina, 0.72
+T(head), mondo, 0.64
+
+
+
+Result : '1', '1', '1', '0', 13.436927999999998
+Result : '1', '1', '1', '0', 13.436927999999998
+Result : '1', '1', '1', '0', 13.436927999999998

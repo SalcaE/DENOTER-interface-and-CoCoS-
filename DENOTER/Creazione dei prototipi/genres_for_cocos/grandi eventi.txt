@@ -1,0 +1,6 @@
+due:                  0.9
+giuliano:             0.75
+angelo:               0.75
+amitrano:             0.6
+cerca:                0.6
+pietro:               0.6

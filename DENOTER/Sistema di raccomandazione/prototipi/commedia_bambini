@@ -1,0 +1,39 @@
+#Title composizione
+Title : commedia-bambini
+
+#Concetto Principale
+Head Concept Name : commedia
+
+#Concetto Modificatore
+Modifier Concept Name : bambini
+
+head, scherzo
+head, -violenza
+head, -male
+
+
+modifier, -offesa
+modifier, -violenza
+modifier, -sesso
+modifier, insegnare
+modifier, sentimento
+modifier, morale
+modifier, bene
+modifier, -male
+modifier, -omicidio
+
+
+T(modifier), regina, 0.72
+T(modifier), mondo, 0.64
+T(modifier), avventura, 0.62
+T(modifier), cuore, 0.6
+T(modifier), casa, 0.6
+T(modifier), fiore, 0.6
+
+T(head), paradiso, 0.72
+T(head), carabiniere, 0.7
+T(head), omicidio, 0.69
+T(head), matrimonio, 0.68
+T(head), relazione, 0.66
+T(head), convento, 0.63
+

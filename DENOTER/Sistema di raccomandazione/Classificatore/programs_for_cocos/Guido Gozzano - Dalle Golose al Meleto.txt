@@ -1,0 +1,17 @@
+documentario:         0.9
+occasione:            0.9
+realizzare:           0.9
+centenario:           0.9
+morte:                0.9
+poeta:                0.9
+gozzano:              0.9
+emozione:             0.9
+amore:                0.9
+tempo:                0.9
+opera:                0.9
+conoscere:            0.9
+profilo:              0.9
+tracciare:            0.9
+breve:                0.9
+intenso:              0.9
+vita:                 0.9

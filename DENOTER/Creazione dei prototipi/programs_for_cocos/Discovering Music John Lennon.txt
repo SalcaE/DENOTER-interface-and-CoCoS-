@@ -1,0 +1,17 @@
+lennon:               0.9
+nuovo:                0.75
+gettare:              0.75
+luce:                 0.75
+pensiero:             0.75
+audace:               0.75
+rivoluzionario:       0.75
+john:                 0.75
+impatto:              0.75
+cultura:              0.75
+pop:                  0.75
+evento:               0.75
+corrente:             0.75
+sentire:              0.75
+discovering:          0.6
+oggi..un:             0.6
+documentario:         0.6

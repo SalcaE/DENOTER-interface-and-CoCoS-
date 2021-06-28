@@ -1,0 +1,16 @@
+orchestra:            0.9000000000000001
+soprano:              0.9000000000000001
+sinfonico:            0.6
+nazionale:            0.6
+rai:                  0.6
+zagrosek:             0.6
+lothar:               0.6
+direttore:            0.6
+christiane:           0.6
+oelze:                0.6
+mahler:               0.6
+eseguire:             0.6
+sinfonia:             0.6
+n.4:                  0.6
+sole:                 0.6
+grande:               0.6

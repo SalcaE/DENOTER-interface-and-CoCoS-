@@ -1,0 +1,3 @@
+giulia:               0.9
+lavoro:               0.7
+azienda:              0.6

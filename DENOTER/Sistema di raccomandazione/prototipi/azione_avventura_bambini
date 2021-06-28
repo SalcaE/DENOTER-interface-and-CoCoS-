@@ -1,0 +1,44 @@
+#Title composizione
+Title : azione_avventura-bambini
+
+#Concetto Principale
+Head Concept Name : azione_avventura
+
+#Concetto Modificatore
+Modifier Concept Name : bambini
+
+head, guerra
+head, acrobazia
+head, eroe
+head, battaglia
+head, disastro
+head, combattimento
+head, fuga
+head, viaggio
+
+modifier, -offesa
+modifier, -violenza
+modifier, -sesso
+modifier, insegnare
+modifier, sentimento
+modifier, morale
+modifier, bene
+modifier, -male
+modifier, -omicidio
+
+
+T(modifier), regina, 0.72
+T(modifier), mondo, 0.64
+T(modifier), avventura, 0.62
+T(modifier), cuore, 0.6
+T(modifier), casa, 0.6
+T(modifier), fiore, 0.6
+
+T(head), polizia, 0.7
+T(head), ricerca, 0.66
+T(head), soldato, 0.65
+T(head), incidente, 0.64
+T(head), assassino, 0.62
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.025896435941376

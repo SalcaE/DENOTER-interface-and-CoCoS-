@@ -1,0 +1,5 @@
+dio: 0.9
+popolo: 0.9
+terra: 0.8
+-uccidere: 0.7
+vita: 0.6

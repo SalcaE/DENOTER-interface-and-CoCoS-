@@ -1,0 +1,35 @@
+#Title composizione
+Title : religioso-thriller
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : thriller
+
+head, fede
+head, storia
+
+
+modifier, suspance
+modifier, ansia
+modifier, tensione
+modifier, mistero
+modifier, pericolo
+modifier, missione
+
+T(modifier), omicidio, 0.8
+T(modifier), commissario, 0.7
+T(modifier), indagine, 0.7
+T(modifier), uccidere, 0.7
+T(modifier), polizia, 0.6
+T(modifier), vita, 0.6
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.02687385600000002

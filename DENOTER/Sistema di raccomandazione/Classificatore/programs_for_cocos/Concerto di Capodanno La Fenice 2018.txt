@@ -1,0 +1,10 @@
+diretto:              0.9
+teatro:               0.9
+fenice:               0.9
+venezia:              0.9
+rai:                  0.9
+cultura:              0.9
+raiuno:               0.9
+concerto:             0.9
+presentare:           0.9
+capodanno:            0.9

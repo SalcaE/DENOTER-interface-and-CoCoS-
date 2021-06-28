@@ -1,0 +1,6 @@
+ragazza:              0.72
+vita:                 0.72
+scienziato:           0.6599999999999999
+omicidio:             0.6599999999999999
+testimone:            0.6
+commissario:          0.6

@@ -1,0 +1,35 @@
+#Title composizione
+Title : religioso-sentimentale
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : sentimentale
+
+head, fede
+head, storia
+
+
+modifier, amore
+modifier, passione
+modifier, emozione
+modifier, relazione
+modifier, tentazione
+
+
+T(modifier), paradiso, 0.78
+T(modifier), amore, 0.74
+T(modifier), matrimonio, 0.72
+T(modifier), relazione, 0.67
+T(modifier), avvocato, 0.65
+T(modifier), nozze, 0.64
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.01835974812672

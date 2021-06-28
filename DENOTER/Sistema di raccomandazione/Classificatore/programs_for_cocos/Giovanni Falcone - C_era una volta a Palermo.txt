@@ -1,0 +1,15 @@
+anno:                 0.9
+rapporto:             0.6
+paolo:                0.6
+borsellino:           0.6
+pool:                 0.6
+periodo:              0.6
+palermo:              0.6
+veleno:               0.6
+direzione:            0.6
+ufficio:              0.6
+affare:               0.6
+penale:               0.6
+ministero:            0.6
+grazia:               0.6
+giustizia:            0.6

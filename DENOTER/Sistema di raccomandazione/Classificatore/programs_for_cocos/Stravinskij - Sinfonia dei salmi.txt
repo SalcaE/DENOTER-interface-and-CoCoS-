@@ -1,0 +1,15 @@
+orchestra:            0.9
+sinfonico:            0.6
+nazionale:            0.6
+rai:                  0.6
+diretto:              0.6
+jeffrey:              0.6
+tata:                 0.6
+athestis:             0.6
+chorus:               0.6
+stravinskij:          0.6
+eseguire:             0.6
+sinfonia:             0.6
+salmo:                0.6
+coro:                 0.6
+misto:                0.6

@@ -1,0 +1,17 @@
+dio:                  0.9
+popolo:               0.9
+vero:                 0.9
+profeta:              0.6
+geremia:              0.6
+chiamare:             0.6
+re:                   0.6
+riportare:            0.6
+volta:                0.6
+israele:              0.6
+smarrito:             0.6
+fede:                 0.6
+verso:                0.6
+giustizia:            0.6
+fallimento:           0.6
+distruzione:          0.6
+provocare:            0.6

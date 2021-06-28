@@ -1,0 +1,39 @@
+#Title composizione
+Title : religioso-bambini
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : bambini
+
+head, fede
+head, storia
+
+
+modifier, -offesa
+modifier, -violenza
+modifier, -sesso
+modifier, insegnare
+modifier, sentimento
+modifier, morale
+modifier, bene
+modifier, -male
+modifier, -omicidio
+
+
+T(modifier), regina, 0.72
+T(modifier), mondo, 0.64
+T(modifier), avventura, 0.62
+T(modifier), cuore, 0.6
+T(modifier), casa, 0.6
+T(modifier), fiore, 0.6
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.04901791334400001

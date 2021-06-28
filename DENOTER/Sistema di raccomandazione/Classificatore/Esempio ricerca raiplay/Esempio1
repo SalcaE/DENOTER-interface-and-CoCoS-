@@ -1,0 +1,17 @@
+#Title composizione
+Title : prova ricerca
+
+#Concetto Principale
+Head Concept Name : prova
+
+#Concetto Modificatore
+Modifier Concept Name : ricerca
+
+T(modifier), matrimonio, 0.7
+T(modifier), futuro, 0.7
+
+T(head), casa, 0.8
+T(head), cuore, 0.7
+T(head), omicidio, 0.7
+
+Result : '1', '1', '1','1','1', 0.050030539775999985

@@ -1,0 +1,7 @@
+albero:               0.9
+scoprire:             0.9
+straordinario:        0.9
+mondo:                0.9
+racconto:             0.9
+cura:                 0.9
+tutela:               0.9

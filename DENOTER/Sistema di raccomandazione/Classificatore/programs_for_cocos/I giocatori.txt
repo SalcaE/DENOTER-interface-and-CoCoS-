@@ -1,0 +1,13 @@
+proprio:              0.9
+becchino:             0.6
+professore:           0.6
+attore:               0.6
+barbiere:             0.6
+tavolo:               0.6
+ritrovare:            0.6
+gioco:                0.6
+conte|conto:          0.6
+fare:                 0.6
+vita|vite:            0.6
+solitudine:           0.6
+fallimento:           0.6

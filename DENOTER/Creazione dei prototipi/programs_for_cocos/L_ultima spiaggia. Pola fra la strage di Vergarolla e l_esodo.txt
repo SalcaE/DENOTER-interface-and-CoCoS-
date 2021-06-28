@@ -1,0 +1,15 @@
+occasione:            0.9
+giorno:               0.9
+ricordo:              0.9
+memoria:              0.9
+vittima:              0.9
+foiba:                0.9
+racconto:             0.9
+strage:               0.9
+grave:                0.9
+repubblicano:         0.9
+italia:               0.9
+agosto:               0.9
+avvenire:             0.9
+..in:                 0.6
+pola:                 0.6

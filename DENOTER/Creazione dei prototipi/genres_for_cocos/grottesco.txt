@@ -1,0 +1,14 @@
+nucci:                0.9
+figlia:               0.675
+barbara:              0.675
+maestro:              0.6
+francesco:            0.6
+vagabondo:            0.6
+gelatina:             0.6
+vita:                 0.6
+giovane:              0.6
+conta|conte:          0.6
+fidanzato:            0.6
+evo:                  0.6
+marito:               0.6
+ex:                   0.6

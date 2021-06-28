@@ -1,0 +1,41 @@
+#Title composizione
+Title : azione_avventura-horror
+
+#Concetto Principale
+Head Concept Name : azione_avventura
+
+#Concetto Modificatore
+Modifier Concept Name : horror
+
+head, guerra
+head, acrobazia
+head, eroe
+head, battaglia
+head, disastro
+head, combattimento
+head, fuga
+head, viaggio
+
+modifier, allarme
+modifier, spavento
+modifier, paura
+modifier, panico
+modifier, sangue
+modifier, -bene
+modifier, -morale
+modifier, 
+
+
+T(modifier), ragazza, 0.72
+T(modifier), vita, 0.72
+T(modifier), scienziato, 0.66
+T(modifier), omicidio, 0.66
+T(modifier), testimone, 0.6
+T(modifier), commissario, 0.6
+
+T(head), polizia, 0.7
+T(head), ricerca, 0.66
+T(head), soldato, 0.65
+T(head), incidente, 0.64
+T(head), assassino, 0.62
+

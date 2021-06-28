@@ -1,0 +1,17 @@
+grande:               0.9000000000000001
+ritrattista:          0.6
+tempo:                0.6
+arte:                 0.6
+inglese:              0.6
+holbein:              0.6
+ritratto:             0.6
+lasciare:             0.6
+corte:                0.6
+tudor:                0.6
+nobile:               0.6
+essenza:              0.6
+frequentare:          0.6
+stesso:               0.6
+quello:               0.6
+periodo:              0.6
+storico:              0.6

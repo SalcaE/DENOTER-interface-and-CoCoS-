@@ -1,0 +1,6 @@
+omicidio:    0.8
+commissario:    0.7
+indagine:   0.7
+uccidere:   0.7
+polizia:    0.6
+vita:   0.6

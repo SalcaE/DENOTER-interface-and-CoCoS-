@@ -1,0 +1,35 @@
+#Title composizione
+Title : bambini_drammatico - fantascienza_sci-fi_musicale
+
+#Concetto Principale
+Head Concept Name : bambini_drammatico
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi_musicale
+
+head, -offesa
+head, -violenza
+head, -sesso
+head, insegnare
+head, sentimento
+head, morale
+head, bene
+head, -male
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, fururo
+modifier, cattivo
+modifier, -amore
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.8
+T(modifier), progetto, 0.8
+
+T(head), omicidio, 0.9
+T(head), cuore, 0.9
+T(head), casa, 0.7
+T(head), mondo, 0.7
+
+Result : '1', '0', '1', '1', '1', '0', '0', 1.0497600000000002

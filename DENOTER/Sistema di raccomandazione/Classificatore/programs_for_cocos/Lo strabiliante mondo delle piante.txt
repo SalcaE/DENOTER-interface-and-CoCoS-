@@ -1,0 +1,13 @@
+incredibile:          0.9
+viaggio:              0.9
+capacità:             0.9
+abilità:              0.9
+pianta:               0.9
+ruolo:                0.9
+affermare:            0.9
+complesso:            0.9
+sistema:              0.9
+vita:                 0.9
+terra:                0.9
+nutrimento:           0.6
+trovare:              0.6

@@ -1,0 +1,37 @@
+#Title composizione
+Title : drammatico-azione_avventura
+
+#Concetto Principale
+Head Concept Name : drammatico
+
+#Concetto Modificatore
+Modifier Concept Name : azione_avventura
+
+head, conflitto
+head, problema
+head, -felicità
+
+modifier, guerra
+modifier, acrobazia
+modifier, eroe
+modifier, battaglia
+modifier, disastro
+modifier, combattimento
+modifier, fuga
+modifier, viaggio
+
+T(modifier), polizia, 0.7
+T(modifier), ricerca, 0.66
+T(modifier), soldato, 0.65
+T(modifier), incidente, 0.64
+T(modifier), assassino, 0.62
+
+T(head), omicidio, 0.85
+T(head), vita, 0.83
+T(head), sangue, 0.7
+T(head), morto, 0.7
+T(head), indagine, 0.66
+T(head), commissario, 0.64
+
+
+Result : '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 0.020664686897567997

@@ -1,0 +1,8 @@
+giovane:              0.9
+pianista:             0.9
+gloria:               0.9
+suite:                0.9
+eseguire:             0.9
+bergamasque:          0.9
+claude:               0.9
+debussy:              0.9

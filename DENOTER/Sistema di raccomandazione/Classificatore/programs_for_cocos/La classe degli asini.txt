@@ -1,0 +1,17 @@
+mirella:              0.9000000000000001
+torino:               0.6
+due:                  0.6
+insegnante:           0.6
+felice:               0.6
+condizione:           0.6
+migliorare:           0.6
+scolastica:           0.6
+bambino:              0.6
+classe:               0.6
+destinare:            0.6
+differenziale:        0.6
+vicenda:              0.6
+ispirare:             0.6
+reale:                0.6
+antonione:            0.6
+casale:               0.6

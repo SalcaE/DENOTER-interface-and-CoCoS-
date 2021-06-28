@@ -1,0 +1,17 @@
+coinquilino:          0.9000000000000001
+cosa:                 0.6
+sbaglio:              0.6
+succedere:            0.6
+consegna:             0.6
+chiave:               0.6
+bagno:                0.6
+improbabile:          0.6
+festa:                0.6
+chiesa:               0.6
+ortodossa:            0.6
+università:           0.6
+iscrivere:            0.6
+difficile:            0.6
+essere|stare:         0.6
+villetta:             0.6
+derubare:             0.6

@@ -1,0 +1,15 @@
+pianoforte:           0.9
+orchestra:            0.75
+sinfonico:            0.6
+nazionale:            0.6
+rai:                  0.6
+andras:               0.6
+schiff:               0.6
+direttore:            0.6
+beethoven:            0.6
+eseguire:             0.6
+concerto:             0.6
+n.5:                  0.6
+bemolle:              0.6
+grande:               0.6
+op.73:                0.6

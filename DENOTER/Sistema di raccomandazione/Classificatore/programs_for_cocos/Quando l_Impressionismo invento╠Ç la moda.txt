@@ -1,0 +1,11 @@
+impressionista:       0.9
+capolavoro:           0.9
+narrare:              0.9
+contemporaneità:      0.9
+uomo:                 0.9
+raccontare:           0.9
+donna:                0.9
+ambiente:             0.9
+quotidiano:           0.9
+nascita:              0.9
+modernità:            0.9

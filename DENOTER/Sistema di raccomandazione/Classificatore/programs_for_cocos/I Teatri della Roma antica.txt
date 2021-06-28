@@ -1,0 +1,9 @@
+teatro:               0.9
+antico:               0.9
+roma:                 0.9
+diverso:              0.6
+prof:                 0.6
+andrea:               0.6
+moderno:              0.6
+segreto:              0.6
+spiegare:             0.6

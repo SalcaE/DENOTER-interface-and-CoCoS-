@@ -1,0 +1,14 @@
+italiano:             0.9
+storia:               0.7
+gualtiero:            0.7
+marchese:             0.7
+fondatore:            0.7
+considerare:          0.7
+nuovo:                0.7
+cucina:               0.7
+parere:               0.7
+molto:                0.7
+chef:                 0.7
+noto:                 0.7
+mondo..la:            0.6
+mondo:                0.6

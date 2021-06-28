@@ -1,0 +1,13 @@
+osservazione:         0.9
+molto:                0.9
+coetaneo:             0.9
+regista:              0.9
+quadro:               0.9
+ironico:              0.9
+sconto:               0.9
+intero:               0.9
+generazione:          0.9
+figlio:               0.9
+nato:                 0.6
+mammoni..nato:        0.6
+mammone:              0.6

@@ -1,0 +1,15 @@
+lennon:               0.9
+discovering:          0.6
+nuovo:                0.6
+gettare:              0.6
+luce:                 0.6
+pensiero:             0.6
+audace:               0.6
+rivoluzionario:       0.6
+john:                 0.6
+impatto:              0.6
+cultura:              0.6
+pop:                  0.6
+evento:               0.6
+corrente:             0.6
+sentire:              0.6

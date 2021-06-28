@@ -1,0 +1,8 @@
+sguardo:              0.9
+panorama:             0.9
+musicale:             0.9
+tradizionale:         0.9
+napoletano:           0.9
+influenza:            0.9
+resto:                0.9
+mondo:                0.9

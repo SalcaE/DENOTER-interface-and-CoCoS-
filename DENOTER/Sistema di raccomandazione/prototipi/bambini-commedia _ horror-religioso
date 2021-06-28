@@ -1,0 +1,41 @@
+#Title composizione
+Title : bambini-commedia _ horror-religioso
+
+#Concetto Principale
+Head Concept Name : bambini-commedia
+
+#Concetto Modificatore
+Modifier Concept Name : horror-religioso
+
+head, -offesa
+head, -violenza
+head, -sesso
+head, insegnare
+head, sentimento
+head, morale
+head, bene
+head, -male
+head, scherzo
+head, -violenza
+
+modifier, allarme
+modifier, spavento
+modifier, paura
+modifier, panico
+modifier, fede
+modifier, storia
+
+
+T(modifier), dio, 0.9
+T(modifier), popolo, 0.9
+T(modifier), terra, 0.8
+T(modifier), ragazza, 0.72
+T(modifier), vita, 0.72
+
+T(head), paradiso, 0.72
+T(head), famiglia, 0.69
+T(head), matrimonio, 0.68
+T(head), mondo, 0.64
+T(head), cuore, 0.6
+T(head), casa, 0.6
+Result : '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', 0.05374427214643201

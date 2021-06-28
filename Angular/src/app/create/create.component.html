@@ -1,0 +1,184 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div class="w3-container">
+
+  <div class="w3-panel w3-card-4" style="background-color: white;">
+    <br>
+    <br>
+
+    <h3 class="center">Inserisci l'ontologia</h3>
+
+    <div class="container fileUploadWrapper">
+      <form>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="fileupload" appDnd (click)="fileField.click()" (fileDropped)="onFileSelectedDrop($event)">
+              <span class="ddinfo">{{dropText}}</span>
+              <input type="file" name="avatars" #fileField (change)="onFileSelected($event)" hidden multiple>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <br>
+    <div class="center">
+      <button color="primary" mat-raised-button (click)="uploadOnto()"> Leggi File</button>
+    </div>
+    <br> <br>
+
+    <div class="resultFile" [style]="styleFromParent">
+      <h2>{{readComplete}}</h2>
+    </div>
+
+    <!--Autocomplete  -->
+    <h2 class="textRes">Scegli Head e Modifier</h2>
+    <br>
+    <div class="center">
+      <form class="example-form">
+        <mat-form-field class="example-full-width">
+          <mat-label style="font-size: 17px">Head</mat-label>
+          <mat-select (change)="changeCombo($event)" >
+            <mat-option #matOptionHeader *ngFor="let option of options" [value]="option"
+                        (click)="headSelected(option)">
+              {{option}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </form>
+
+      <form class="example-form">
+        <mat-form-field class="example-full-width">
+          <mat-label style="font-size: 17px">Modifier</mat-label>
+
+          <mat-select (change)="changeCombo1($event)">
+            <mat-option *ngFor="let option1 of options" [value]="option1"
+                        (click)="ModifierSelected(option1)">
+              {{option1}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </form>
+    </div>
+
+    <br><br>
+    <!--Liste Header/Modifier -->
+    <div class="center">
+      <div class="example-container  ">
+        <h2 style="margin: 0px">Proprietà Head</h2>
+        <mat-label style="color: #cccccc">Seleziona per negare</mat-label>
+
+        <div
+          cdkDropList
+          #headerList="cdkDropList"
+          [cdkDropListData]="headC.MClassCollection"
+          [cdkDropListConnectedTo]="[typicalListH]"
+          class="example-list"
+          (cdkDropListDropped)="drop($event)">
+          <div class="example-boxHe" *ngFor="let data of headC.MClassCollection" cdkDrag>
+            <mat-checkbox [(ngModel)]="data.selected" (change)="showOptionsH($event,data.name)">
+              {{ data.name }}
+            </mat-checkbox>
+          </div>
+        </div>
+      </div>
+
+      <div class="example-container ">
+        <h2 style="margin: 0px">Proprietà Tipica</h2>
+        <mat-label style="color: #cccccc">Seleziona per negare</mat-label>
+        <div
+          cdkDropList
+          #typicalListH="cdkDropList"
+          [cdkDropListData]="tipicheH.MClassCollection"
+          [cdkDropListConnectedTo]="[headerList]"
+          class="example-list"
+          (cdkDropListDropped)="drop($event)">
+          <div class="example-boxHe mat-checkbox mat-accent" style="font-weight: bold; padding: 0px 10px; "
+               *ngFor="let item of tipicheH.MClassCollection" cdkDrag>
+            <mat-checkbox [(ngModel)]="item.selected" (change)="showOptionsHT($event,item.name)">
+              {{item.name}}
+            </mat-checkbox>
+            <mat-form-field style="max-width: 50px;">
+              <mat-label>%</mat-label>
+              <input type="number" min='0' max='1.00' value='0.00' step='0.01' placeholder="0.00" matInput
+                     (change)="savePercentageH($event,item.name)">
+            </mat-form-field>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="example-container ">
+        <h2 style="margin: 0px">Proprietà Modifier</h2>
+        <mat-label style="color: #cccccc">Seleziona per negare</mat-label>
+        <div
+          cdkDropList
+          #modifierList="cdkDropList"
+          [cdkDropListData]="modifierC.MClassCollection"
+          [cdkDropListConnectedTo]="[typicalListM]"
+          class="example-list"
+          (cdkDropListDropped)="drop($event)">
+          <div class="example-boxMo" *ngFor="let data of modifierC.MClassCollection" cdkDrag>
+            <mat-checkbox [(ngModel)]="data.selected" (change)="showOptionsM($event,data.name)">
+              {{ data.name }}
+            </mat-checkbox>
+          </div>
+        </div>
+      </div>
+
+      <div class="example-container ">
+        <h2 style="margin: 0px">Proprietà Tipica</h2>
+        <mat-label style="color: #cccccc">Seleziona per negare</mat-label>
+        <div
+          cdkDropList
+          #typicalListM="cdkDropList"
+          [cdkDropListData]="tipicheM.MClassCollection"
+          [cdkDropListConnectedTo]="[modifierList]"
+          class="example-list"
+          (cdkDropListDropped)="drop($event)">
+          <div class="example-boxMo mat-checkbox mat-accent" style="font-weight: bold; padding: 0px 10px; "
+               *ngFor="let item of tipicheM.MClassCollection" cdkDrag>
+            <mat-checkbox [(ngModel)]="item.selected" (change)="showOptionsMT($event,item.name)">
+              {{item.name}}
+            </mat-checkbox>
+            <mat-form-field style="max-width: 50px;">
+              <mat-label>%</mat-label>
+              <input type="number" min='0' max='1.00' value='0.00' step='0.01' placeholder="0.00" matInput
+                     (change)="savePercentageM($event,item.name)">
+            </mat-form-field>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="center">
+      <p style="color: red; font-size: 18px">{{error}}</p>
+    </div>
+
+    <br>
+    <div class="center">
+      <button color="primary" mat-raised-button (click)="uploadFileCreated()"> Crea File</button>
+    </div>
+    <br><br>
+
+    <div class=" resultFile" [style]="styleFromParentFile">
+      <h2>{{resultFile}}</h2>
+    </div>
+
+    <br>
+    <div class="center">
+      <button color="primary" mat-raised-button [style]="styleBtnDownload" (click)="downloadFile()">Download File
+      </button>
+    </div>
+    <br><br>
+
+  </div>
+</div>
+
+
+
+
+
+
+

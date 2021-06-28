@@ -1,0 +1,17 @@
+cinque:               0.9000000000000001
+storia:               0.6
+legato:               0.6
+elemento:             0.6
+acqua:                0.6
+terra:                0.6
+aria:                 0.6
+fuoco:                0.6
+etera|etere:          0.6
+racconto:             0.6
+seguire:              0.6
+film:                 0.6
+concetto:             0.6
+esplorare:            0.6
+immortalità:          0.6
+proprietà:            0.6
+intendere:            0.6

@@ -1,0 +1,25 @@
+tanto:                0.9
+falco:                0.7
+anna:                 0.7
+coppia:               0.7
+matrimonio:           0.7
+due:                  0.7
+riuscire:             0.7
+figlio:               0.7
+lavoro:               0.7
+futuro:               0.7
+costruire:            0.7
+migliore:             0.7
+possibile:            0.7
+improvviso:           0.7
+tragedia:             0.7
+fronteggiare:         0.7
+imprevisto:           0.7
+porta:                0.7
+famiglia:             0.7
+tenacia:              0.7
+richiedere:           0.7
+senso:                0.7
+roberto:              0.6
+responsabilità..roberto:0.6
+responsabilità:       0.6

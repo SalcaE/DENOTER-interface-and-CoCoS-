@@ -1,0 +1,6 @@
+progetto:             0.7615384615384615
+supercalcolatore:     0.7153846153846154
+militare:             0.6692307692307692
+messaggio:            0.6230769230769231
+decifrare:            0.6230769230769231
+istruzione:           0.6230769230769231

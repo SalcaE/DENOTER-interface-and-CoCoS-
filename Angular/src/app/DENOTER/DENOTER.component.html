@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div class="w3-container">
+
+  <div class="w3-panel w3-card-4" style="background-color: white;">
+    <br>
+    <br>
+
+    <h3 class="center">Inserisci il file</h3>
+
+    <div class="container fileUploadWrapper">
+      <form>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="fileupload" appDnd (click)="fileField.click()" (fileDropped)="onFileSelectedDrop($event)">
+              <span class="ddinfo">{{oppure}}</span>
+              <input type="file" name="avatars" #fileField (change)="onFileSelected($event)" hidden multiple>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+
+
+    <br>
+    <div class="center">
+      <button color="primary" mat-raised-button (click)="uploadFile()"> Avvia Denoter</button>
+    </div>
+
+    <br><br>
+    <div class="center">
+       <mat-spinner [diameter]="50" [style]="styleSbinner"></mat-spinner>
+    </div>
+
+
+    <div>
+      <h3 class="textRes" [style]="styleFileContent">Risultato</h3>
+      <pre class="textRes" style="font-size: 20px" [style]="styleFileContent"> {{dropText}} </pre>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
+
+

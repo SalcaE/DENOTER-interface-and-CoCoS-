@@ -1,0 +1,36 @@
+#Title composizione
+Title : commedia-fantascienza_sci-fi
+
+#Concetto Principale
+Head Concept Name : commedia
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi
+
+head, scherzo
+head, -violenza
+head, -male
+
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, futuro
+modifier, -amore
+
+T(modifier), progetto, 0.76
+T(modifier), supercalcolatore, 0.72
+T(modifier), militare, 0.67
+T(modifier), messaggio, 0.62
+T(modifier), decifrare, 0.62
+T(modifier), istruzione, 0.62
+
+T(head), paradiso, 0.72
+T(head), carabiniere, 0.7
+T(head), omicidio, 0.69
+T(head), matrimonio, 0.68
+T(head), relazione, 0.66
+T(head), convento, 0.63
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', 0.006232089305844153

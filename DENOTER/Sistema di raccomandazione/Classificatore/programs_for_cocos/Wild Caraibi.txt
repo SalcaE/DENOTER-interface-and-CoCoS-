@@ -1,0 +1,14 @@
+roatan:               0.9
+vero:                 0.9
+imperversare:         0.9
+pirata:               0.9
+squalo:               0.9
+caraibi:              0.9
+barriera:             0.9
+corallina:            0.9
+uccello:              0.9
+raro:                 0.9
+diverso:              0.9
+futuro:               0.9
+collaborare:          0.9
+generazione:          0.9

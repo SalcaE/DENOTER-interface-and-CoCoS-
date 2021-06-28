@@ -1,0 +1,17 @@
+pianoforte:           0.9
+orchestra:            0.75
+sinfonico:            0.6
+nazionale:            0.6
+rai:                  0.6
+diretto:              0.6
+juraj:                0.6
+valcuha:              0.6
+gloria:               0.6
+campaner:             0.6
+rachmaninov:          0.6
+eseguire:             0.6
+concerto:             0.6
+n.2:                  0.6
+do:                   0.6
+minore:               0.6
+op.18:                0.6

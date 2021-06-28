@@ -1,0 +1,5 @@
+polizia:              0.702
+ricerca:              0.66
+soldato:              0.654
+incidente:            0.642
+assassino:            0.624

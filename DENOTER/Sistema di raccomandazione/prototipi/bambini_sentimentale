@@ -1,0 +1,43 @@
+#Title composizione
+Title : bambini-sentimentale
+
+#Concetto Principale
+Head Concept Name : bambini
+
+#Concetto Modificatore
+Modifier Concept Name : sentimentale
+
+head, -offesa
+head, -violenza
+head, -sesso
+head, insegnare
+head, sentimento
+head, morale
+head, bene
+head, -male
+head, -omicidio
+
+
+modifier, amore
+modifier, passione
+modifier, emozione
+modifier, relazione
+modifier, tentazione
+
+
+T(modifier), paradiso, 0.78
+T(modifier), amore, 0.74
+T(modifier), matrimonio, 0.72
+T(modifier), relazione, 0.67
+T(modifier), avvocato, 0.65
+T(modifier), nozze, 0.64
+
+T(head), regina, 0.72
+T(head), mondo, 0.64
+T(head), avventura, 0.62
+T(head), cuore, 0.6
+T(head), casa, 0.6
+T(head), fiore, 0.6
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '0', '0', '0', '0', '0', 0.010892858739130366

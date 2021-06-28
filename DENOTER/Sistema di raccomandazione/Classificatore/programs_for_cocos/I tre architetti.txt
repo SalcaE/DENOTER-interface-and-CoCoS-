@@ -1,0 +1,12 @@
+tre:                  0.9
+visione:              0.7
+architettura:         0.7
+architetto:           0.6
+concezione:           0.6
+raccontare:           0.6
+documentario:         0.6
+dizionario:           0.6
+parola:               0.6
+nuovo:                0.6
+interpretare:         0.6
+contemporaneo:        0.6

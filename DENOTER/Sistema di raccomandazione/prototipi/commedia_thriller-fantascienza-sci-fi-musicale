@@ -1,0 +1,29 @@
+#Title composizione
+Title : commedia-thriller _ fantascienza_sci-fi-musicale
+
+#Concetto Principale
+Head Concept Name : commedia-thriller
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi-musicale
+
+head, scherzo
+head, -violenza
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, fururo
+modifier, cattivo
+modifier, -amore
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.8
+T(modifier), progetto, 0.8
+
+T(head), omicidio, 0.8
+T(head), commissario, 0.7
+T(head), carabiniere, 0.7
+T(head), matrimonio, 0.7
+
+Result : '1', '0', '1', '1', '1', '0', '0', 0.7257600000000003

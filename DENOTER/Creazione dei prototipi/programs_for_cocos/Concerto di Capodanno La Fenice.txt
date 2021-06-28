@@ -1,0 +1,26 @@
+concerto:             0.9
+teatro:               0.78
+capodanno:            0.66
+orchestra:            0.66
+coro:                 0.66
+fenice:               0.66
+diretto:              0.66
+maestro:              0.66
+fabio:                0.66
+luisi:                0.66
+arricchito:           0.66
+balletto:             0.66
+corpo:                0.66
+ballo:                0.66
+scala:                0.66
+vario|varo:           0.66
+prevedere:            0.66
+brano:                0.66
+musicale:             0.66
+voce:                 0.66
+descrivere:           0.66
+campo:                0.66
+roberto:              0.66
+tradizionale:         0.6
+chevalier..tradizionale:0.6
+chevalier:            0.6

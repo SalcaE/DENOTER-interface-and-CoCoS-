@@ -1,0 +1,16 @@
+augusta:              0.9
+mente:                0.9
+rodare|rodiare:       0.9
+cosa:                 0.9
+capolavoro:           0.9
+vita:                 0.9
+scultura:             0.9
+colossale:            0.9
+dannato:              0.9
+popolare:             0.9
+donna:                0.9
+amato:                0.9
+moltitudine:          0.9
+segreto:              0.9
+porta:                0.9
+inferno:              0.9

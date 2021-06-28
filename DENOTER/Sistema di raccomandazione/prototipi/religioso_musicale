@@ -1,0 +1,32 @@
+#Title composizione
+Title : religioso-musicale
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : musicale
+
+head, fede
+head, storia
+
+
+modifier, musica
+modifier, cantare
+
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.84
+T(modifier), concerto, 0.74
+T(modifier), band, 0.72
+T(modifier), gruppo, 0.7
+T(modifier), auditorium, 0.66
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '0', '0', '0', 0.010913136998400002

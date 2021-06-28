@@ -1,0 +1,34 @@
+#Title composizione
+Title : commedia-drammatico
+
+#Concetto Principale
+Head Concept Name : commedia
+
+#Concetto Modificatore
+Modifier Concept Name : drammatico
+
+head, scherzo
+head, -violenza
+head, -male
+
+
+modifier, conflitto
+modifier, problema
+modifier, -felicità
+
+T(modifier), omicidio, 0.85
+T(modifier), vita, 0.83
+T(modifier), sangue, 0.7
+T(modifier), morto, 0.7
+T(modifier), indagine, 0.66
+T(modifier), commissario, 0.64
+
+T(head), paradiso, 0.72
+T(head), carabiniere, 0.7
+T(head), omicidio, 0.69
+T(head), matrimonio, 0.68
+T(head), relazione, 0.66
+T(head), convento, 0.63
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', 0.004888141790902274

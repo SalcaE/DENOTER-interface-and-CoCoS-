@@ -1,0 +1,15 @@
+muro:                 0.9
+de:                   0.66
+città:                0.66
+storia:               0.66
+terremoto:            0.66
+fine:                 0.6
+padre:                0.6
+agosto:               0.6
+comunità:             0.6
+amatore:              0.6
+anno:                 0.6
+centro:               0.6
+resta:                0.6
+mondo:                0.6
+conflitto:            0.6

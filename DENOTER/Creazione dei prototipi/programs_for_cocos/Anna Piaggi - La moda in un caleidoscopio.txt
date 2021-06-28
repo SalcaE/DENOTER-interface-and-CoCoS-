@@ -1,0 +1,12 @@
+storia:               0.9
+arte:                 0.9
+costume:              0.9
+grande:               0.9
+piaggiare:            0.9
+giornalista:          0.9
+moda:                 0.9
+voce:                 0.9
+importante:           0.9
+fashion-system:       0.9
+internazionale..la:   0.6
+internazionale:       0.6

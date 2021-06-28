@@ -1,0 +1,96 @@
+DENOTER: Dynamic gEnerator of NOvel contents in mulTimEdia bRroadcasting
+A Python tool for dynamic generation of knowledge in Description Logics of 
+Typicality tested in the context of RaiPlay
+------------------------------------------------------------------------------------------
+
+#Module 1 - Spider for extracting data from the web platform of RaiPlay
+
+- Description: automatic extraction of information (title, description, genre, sub-genres) of each
+multimedia item available on RaiPlay by means of a web crawler implemented in Python by using Scrapy
+
+- Folder: ./RaiCrawler
+
+- To run: python3 pipeline.py
+
+- Output in ./OutputFile
+
+- Source files for crwaler in ./rai/spiders/
+
+- WARNING: delete the content of folder Output before running the crawler. Folder Output already contains
+the results of the crawling: if you want to use these results, DO NOT RUN the crawler (go to next modules)
+
+------------------------------------------------------------------------------------------
+
+#Module 2 - Generation of prototypes
+
+- Description: Generation of prototypes of genres 
+
+- Folder: ./Creazione dei prototipi
+
+- Information about multimedia items in "descrizioni.json"
+
+- Libraries nltk and treetaggerwrapper are needed (install if missing)
+
+- To run the generation of prototypes of genres: python3 prototyper_genres.py
+
+- To run the generation of prototypes of programs: python3 prototyper_programs.py
+
+- Ignore warnings
+
+- Output:
+
+	- prototypes of genres in folder "genres_for_cocos"
+	- prototypes of programs in folder "programs_for_cocos"
+
+------------------------------------------------------------------------------------------
+
+#Module 3 - Generation of novel genres 
+
+- Description: the tool generates the input file for module CoCoS, able to generate novel genres
+by combining the prototypes of two existing ones by exploiting the logic TCL.
+Generated file will contain all the properties of prototypes of the two starting genres (HEAD and MODIFIER)
+
+- Folder: ./Sistema di raccomandazione
+
+- Prototypical properties of the existing genres in folder "genres"
+
+- Rigid properties of the existing genres in folder "genres_attr"
+
+- To run the generation of the input file for CoCoS: python3 CombinatoreGeneri.py genre1 genre2
+    Example : python3 CombinatoreGeneri.py bambini horror
+
+- Output folder: "prototipi"
+
+------------------------------------------------------------------------------------------
+
+#Module 4 - Combining genres by exploiting CoCoS
+
+- Description: a novel genre is obtained by exploiting CoCoS for the combination of two existing genres
+
+- Folder: ./Sistema di raccomandazione
+
+- To run: python3 Pozz.py filePrototipo [maximum number of inherited properties]*
+    *optional
+
+    Example: python3 Pozz.py prototipi/bambini_horror
+
+- At the end of its execution, the tool CoCoS writes the prototypes of the novel genre in the suitable file
+    
+------------------------------------------------------------------------------------------
+
+#Module 5 - Recommender system
+
+- Description: show all the multimedia items that are re-classified in the novel generated genre.
+Results are presented ordered by a rank of compatibility multimedia item-novel genre
+
+- Folder: ./Sistema di raccomandazione/Classificatore
+
+- Prototypes of each multimedia item are available in the folder "programs_for_cocos"
+
+- File "descr_only_lemmas.json" contains "significant" information of all episodes
+
+- To run: python3 Recommender.py novel_genre
+    Example: python3 Recommender.py ../prototipi/bambini_horror
+
+
+

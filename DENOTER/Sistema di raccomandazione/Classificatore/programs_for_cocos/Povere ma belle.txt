@@ -1,0 +1,20 @@
+alcun|alcune:         0.9
+crisi:                0.6
+economico:            0.6
+punto:                0.6
+vista:                0.6
+donna:                0.6
+ultimo:               0.6
+anno:                 0.6
+abitudine:            0.6
+rinunciare:           0.6
+alimentare:           0.6
+vestito:              0.6
+nuovo:                0.6
+cura:                 0.6
+sanitario:            0.6
+parrucchiera|parrucchiere:0.6
+raccontare:           0.6
+taglio:               0.6
+offrire:              0.6
+solidale:             0.6

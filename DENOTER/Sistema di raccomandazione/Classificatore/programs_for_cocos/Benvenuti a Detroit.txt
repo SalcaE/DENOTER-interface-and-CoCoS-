@@ -1,0 +1,17 @@
+città:                0.9000000000000001
+ritratto:             0.6
+detroit:              0.6
+capitale:             0.6
+industria:            0.6
+automobilistico:      0.6
+americano:            0.6
+crisi:                0.6
+colpire:              0.6
+economico:            0.6
+rinascita:            0.6
+sperare:              0.6
+arrivo:               0.6
+sergio:               0.6
+marchionne:           0.6
+capo:                 0.6
+chrysler:             0.6

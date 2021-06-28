@@ -1,0 +1,38 @@
+#Title composizione
+Title : azione _ avventura-sentimentale - bambini_drammatico
+
+#Concetto Principale
+Head Concept Name : azione _ avventura-sentimentale
+
+#Concetto Modificatore
+Modifier Concept Name : bambini_drammatico
+
+head, guerra
+head, acrobazia
+head, eroe
+head, battaglia
+head, disastro
+head, combattimento
+head, fuga
+head, viaggio
+
+modifier, -offesa
+modifier, -violenza
+modifier, -sesso
+modifier, insegnare
+modifier, sentimento
+modifier, morale
+modifier, bene
+modifier, -male
+
+T(modifier), omicidio, 0.9
+T(modifier), cuore, 0.9
+T(modifier), casa, 0.7
+T(modifier), mondo, 0.7
+
+T(head), paradiso, 0.8
+T(head), polizia, 0.7
+T(head), ricerca, 0.7
+T(head), soldato, 0.7
+
+Result : '1', '1', '1', '1', '1', '0', '1', '1', 4.667544

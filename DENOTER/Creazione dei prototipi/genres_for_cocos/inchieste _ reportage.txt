@@ -1,0 +1,6 @@
+carcere:              0.9
+anno:                 0.75
+primo:                0.6
+torino:               0.6
+grande:               0.6
+storia:               0.6

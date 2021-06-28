@@ -1,0 +1,20 @@
+#Title composizione
+Title : PizzeNominate-Capricciosa
+
+#Concetto Principale
+Head Concept Name : PizzeNominate
+
+#Concetto Modificatore
+Modifier Concept Name : Capricciosa
+
+head, Pizza
+
+
+modifier, Cibo
+modifier, PizzeNominate
+
+
+T(modifier), -Pizza, 0.00
+
+T(head), -Cibo, 0.00
+

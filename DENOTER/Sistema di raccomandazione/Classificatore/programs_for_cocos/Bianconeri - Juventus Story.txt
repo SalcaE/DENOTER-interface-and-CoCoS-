@@ -1,0 +1,13 @@
+viaggio:              0.9
+momento:              0.9
+intrecciare:          0.9
+cruciale:             0.9
+avventura:            0.9
+sportivo:             0.9
+juventus:             0.9
+profondo:             0.9
+rivelare:             0.9
+legame:               0.9
+famiglia:             0.9
+agnello:              0.9
+squadra:              0.9

@@ -1,0 +1,35 @@
+#Title composizione
+Title : fantascienza_sci-fi-drammatico
+
+#Concetto Principale
+Head Concept Name : fantascienza_sci-fi
+
+#Concetto Modificatore
+Modifier Concept Name : drammatico
+
+head, eroe
+head, scienza
+head, forza
+head, futuro
+head, cattivo
+head, -amore
+
+modifier, conflitto
+modifier, problema
+modifier, -felicità
+
+T(modifier), omicidio, 0.85
+T(modifier), vita, 0.83
+T(modifier), sangue, 0.7
+T(modifier), morto, 0.7
+T(modifier), indagine, 0.66
+T(modifier), commissario, 0.64
+
+T(head), progetto, 0.76
+T(head), supercalcolatore, 0.72
+T(head), militare, 0.67
+T(head), messaggio, 0.62
+T(head), decifrare, 0.62
+T(head), istruzione, 0.62
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '0', '0', '0', '0', 0.01796836450498468

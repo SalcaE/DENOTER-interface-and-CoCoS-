@@ -1,0 +1,21 @@
+alcun|alcune:         0.9
+crisi:                0.7
+economico:            0.7
+punto:                0.7
+vista:                0.7
+donna:                0.7
+ultimo:               0.7
+anno:                 0.7
+abitudine:            0.7
+rinunciare:           0.7
+alimentare:           0.7
+vestito:              0.7
+nuovo:                0.7
+cura:                 0.7
+sanitario:            0.7
+parrucchiera|parrucchiere:0.7
+raccontare:           0.7
+taglio:               0.7
+offrire:              0.7
+solidale:             0.7
+..la:                 0.6

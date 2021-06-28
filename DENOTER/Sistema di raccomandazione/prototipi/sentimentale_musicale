@@ -1,0 +1,32 @@
+#Title composizione
+Title : sentimentale-musicale
+
+#Concetto Principale
+Head Concept Name : sentimentale
+
+#Concetto Modificatore
+Modifier Concept Name : musicale
+
+head, passione
+head, emozione
+head, relazione
+head, tentazione
+
+modifier, musica
+modifier, cantare
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.84
+T(modifier), concerto, 0.74
+T(modifier), band, 0.72
+T(modifier), gruppo, 0.7
+T(modifier), auditorium, 0.66
+
+T(head), paradiso, 0.78
+T(head), amore, 0.74
+T(head), matrimonio, 0.72
+T(head), relazione, 0.67
+T(head), avvocato, 0.65
+T(head), nozze, 0.64
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '0', '0', '0', '0', 0.010736940763848497

@@ -1,0 +1,39 @@
+#Title composizione
+Title : horror-musicale
+
+#Concetto Principale
+Head Concept Name : horror
+
+#Concetto Modificatore
+Modifier Concept Name : musicale
+
+head, allarme
+head, spavento
+head, paura
+head, panico
+head, sangue
+head, -bene
+head, -morale
+head, 
+
+
+modifier, musica
+modifier, cantare
+
+
+T(modifier), musica, 0.9
+T(modifier), orchestra, 0.84
+T(modifier), concerto, 0.74
+T(modifier), band, 0.72
+T(modifier), gruppo, 0.7
+T(modifier), auditorium, 0.66
+
+T(head), ragazza, 0.72
+T(head), vita, 0.72
+T(head), scienziato, 0.66
+T(head), omicidio, 0.66
+T(head), testimone, 0.6
+T(head), commissario, 0.6
+
+
+Result : '1', '1', '1', '0', '0', '0', '0', '1', '0', '0', '0', '0', 0.005957719648763904

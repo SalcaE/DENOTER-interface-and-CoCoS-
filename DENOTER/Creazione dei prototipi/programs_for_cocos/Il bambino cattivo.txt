@@ -1,0 +1,11 @@
+anno:                 0.9
+famiglia:             0.7
+genitore:             0.7
+disgregare:           0.7
+entrambi:             0.7
+professore:           0.7
+universitario:        0.7
+conflitto:            0.7
+brando:               0.6
+mezzo..brando:        0.6
+mezzo:                0.6

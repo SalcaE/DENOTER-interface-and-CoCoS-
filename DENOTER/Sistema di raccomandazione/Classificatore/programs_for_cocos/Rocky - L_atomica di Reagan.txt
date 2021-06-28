@@ -1,0 +1,17 @@
+film:                 0.9
+cultura:              0.9
+popolare:             0.9
+rocky:                0.6
+emblematico:          0.6
+capitolo:             0.6
+costituire:           0.6
+americano:            0.6
+documentario:         0.6
+oggetto:              0.6
+analisi:              0.6
+approfondire:         0.6
+politica:             0.6
+emblema:              0.6
+anno:                 0.6
+mito:                 0.6
+eroe:                 0.6

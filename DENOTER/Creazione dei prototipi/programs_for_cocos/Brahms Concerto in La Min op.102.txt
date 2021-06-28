@@ -1,0 +1,16 @@
+capuçon:              0.9
+violino:              0.9
+violoncello:          0.9
+orchestra:            0.75
+sinfonico:            0.6
+nazionale:            0.6
+rai:                  0.6
+diretto:              0.6
+s.bychkov:            0.6
+renaud:               0.6
+gautier:              0.6
+brahms:               0.6
+eseguire:             0.6
+concerto:             0.6
+minore:               0.6
+op.102:               0.6

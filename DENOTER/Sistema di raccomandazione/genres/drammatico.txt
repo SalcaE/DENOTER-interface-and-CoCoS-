@@ -1,0 +1,6 @@
+omicidio: 0.85
+vita: 0.83
+sangue: 0.7
+morto: 0.7
+indagine: 0.66
+commissario: 0.64

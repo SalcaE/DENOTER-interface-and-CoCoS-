@@ -1,0 +1,15 @@
+quindici:             0.9
+anno:                 0.9
+pace:                 0.9
+due:                  0.9
+famiglia:             0.9
+mafioso:              0.9
+regolamento:          0.9
+sembrare:             0.9
+conte|conto:          0.9
+altro:                0.9
+nascondere:           0.9
+fermo:                0.9
+montalbano:           0.9
+primo:                0.9
+ipotesi:              0.9

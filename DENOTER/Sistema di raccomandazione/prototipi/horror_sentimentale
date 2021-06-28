@@ -1,0 +1,42 @@
+#Title composizione
+Title : horror-sentimentale
+
+#Concetto Principale
+Head Concept Name : horror
+
+#Concetto Modificatore
+Modifier Concept Name : sentimentale
+
+head, allarme
+head, spavento
+head, paura
+head, panico
+head, sangue
+head, -bene
+head, -morale
+head, 
+
+
+modifier, amore
+modifier, passione
+modifier, emozione
+modifier, relazione
+modifier, tentazione
+
+
+T(modifier), paradiso, 0.78
+T(modifier), amore, 0.74
+T(modifier), matrimonio, 0.72
+T(modifier), relazione, 0.67
+T(modifier), avvocato, 0.65
+T(modifier), nozze, 0.64
+
+T(head), ragazza, 0.72
+T(head), vita, 0.72
+T(head), scienziato, 0.66
+T(head), omicidio, 0.66
+T(head), testimone, 0.6
+T(head), commissario, 0.6
+
+
+Result : '1', '1', '1', '0', '0', '0', '0', '1', '0', '0', '0', '0', 0.006443348897444657

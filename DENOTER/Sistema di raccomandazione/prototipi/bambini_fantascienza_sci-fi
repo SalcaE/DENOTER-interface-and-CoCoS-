@@ -1,0 +1,42 @@
+#Title composizione
+Title : bambini-fantascienza_sci-fi
+
+#Concetto Principale
+Head Concept Name : bambini
+
+#Concetto Modificatore
+Modifier Concept Name : fantascienza_sci-fi
+
+head, -offesa
+head, -violenza
+head, -sesso
+head, insegnare
+head, sentimento
+head, morale
+head, bene
+head, -male
+head, -omicidio
+
+
+modifier, eroe
+modifier, scienza
+modifier, forza
+modifier, futuro
+modifier, -amore
+
+T(modifier), progetto, 0.76
+T(modifier), supercalcolatore, 0.72
+T(modifier), militare, 0.67
+T(modifier), messaggio, 0.62
+T(modifier), decifrare, 0.62
+T(modifier), istruzione, 0.62
+
+T(head), regina, 0.72
+T(head), mondo, 0.64
+T(head), avventura, 0.62
+T(head), cuore, 0.6
+T(head), casa, 0.6
+T(head), fiore, 0.6
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '0', '0', '0', '0', '0', 0.012681488992252722

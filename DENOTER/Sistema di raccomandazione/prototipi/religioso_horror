@@ -1,0 +1,38 @@
+#Title composizione
+Title : religioso-horror
+
+#Concetto Principale
+Head Concept Name : religioso
+
+#Concetto Modificatore
+Modifier Concept Name : horror
+
+head, fede
+head, storia
+
+
+modifier, allarme
+modifier, spavento
+modifier, paura
+modifier, panico
+modifier, sangue
+modifier, -bene
+modifier, -morale
+modifier, 
+
+
+T(modifier), ragazza, 0.72
+T(modifier), vita, 0.72
+T(modifier), scienziato, 0.66
+T(modifier), omicidio, 0.66
+T(modifier), testimone, 0.6
+T(modifier), commissario, 0.6
+
+T(head), dio, 0.9
+T(head), popolo, 0.9
+T(head), terra, 0.8
+T(head), -uccidere, 0.7
+T(head), vita, 0.6
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '0', '0', 0.028995099033600008

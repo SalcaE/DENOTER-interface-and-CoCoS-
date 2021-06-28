@@ -1,0 +1,17 @@
+musica:               0.9000000000000001
+auditorium:           0.6
+parco:                0.6
+sala:                 0.6
+sinopoli:             0.6
+concerto:             0.6
+giorno:               0.6
+memoria:              0.6
+serata:               0.6
+colorare:             0.6
+campo:                0.6
+internamento:         0.6
+voce:                 0.6
+ferramonti:           0.6
+peppe:                0.6
+narrare:              0.6
+servillo:             0.6

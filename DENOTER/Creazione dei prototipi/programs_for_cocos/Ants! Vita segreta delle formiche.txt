@@ -1,0 +1,10 @@
+pianeta:              0.9
+milione:              0.9
+anno:                 0.9
+nessun|nessuna:       0.9
+creatura:             0.9
+vivente:              0.9
+estranea:             0.9
+abitare:              0.6
+formiche..abitano:    0.6
+formica:              0.6

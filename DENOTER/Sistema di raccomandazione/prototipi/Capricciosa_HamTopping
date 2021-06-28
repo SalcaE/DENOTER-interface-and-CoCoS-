@@ -1,0 +1,21 @@
+#Title composizione
+Title : Capricciosa-HamTopping
+
+#Concetto Principale
+Head Concept Name : Capricciosa
+
+#Concetto Modificatore
+Modifier Concept Name : HamTopping
+
+head, Pizza
+
+
+modifier, -Topping
+
+
+T(modifier), Pizza, 0.00
+T(modifier), Cibo, 0.00
+
+T(head), -PizzeNominate, 0.00
+T(head), -Cibo, 0.00
+
